@@ -1,3 +1,4 @@
+//Concurrent promises with Promise.all
 let promiseCounter = 0;
 
 const randomInteger = (min, max) => {
